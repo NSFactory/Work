@@ -1,2 +1,2 @@
-# work
-ルートディレクトリ
+# NSFactory
+WorksRoot
